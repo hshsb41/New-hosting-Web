@@ -22,3 +22,6 @@ psutil
 python-cfonts
 asyncio
 multiprocessing-logging
+pyTelegramBotAPI
+rich
+colorama
