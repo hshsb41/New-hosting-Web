@@ -25,3 +25,4 @@ multiprocessing-logging
 pyTelegramBotAPI
 rich
 colorama
+neonize
