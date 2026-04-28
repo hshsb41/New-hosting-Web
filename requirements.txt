@@ -25,5 +25,4 @@ multiprocessing-logging
 pyTelegramBotAPI
 rich
 colorama
-neonize
-python-magic-bin
+
