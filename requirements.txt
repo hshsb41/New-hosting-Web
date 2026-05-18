@@ -25,3 +25,6 @@ rich
 colorama
 asyncio
 multiprocessing-logging
+discord.py
+pynacl
+python-dotenv
