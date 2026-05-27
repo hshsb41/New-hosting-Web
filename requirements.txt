@@ -1,4 +1,4 @@
-flask
+Flask
 flask-cors
 werkzeug
 jinja2
@@ -28,3 +28,4 @@ multiprocessing-logging
 discord.py
 pynacl
 python-dotenv
+apscheduler
