@@ -21,6 +21,7 @@ pytz
 psutil
 python-cfonts
 python-telegram-bot
+pyTelegramBotAPI
 rich
 colorama
 asyncio
@@ -29,3 +30,13 @@ discord.py
 pynacl
 python-dotenv
 apscheduler
+groq
+Pillow
+pymongo
+motor
+sqlalchemy
+beautifulsoup4
+lxml
+websockets
+cachetools
+tqdm
